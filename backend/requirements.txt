@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+chromadb
+ollama
+langchain
+langchain-community
+pypdf
+python-docx
+pandas
+openpyxl
+beautifulsoup4
+requests
+python-dotenv
+websockets
+langchain-text-splitters
